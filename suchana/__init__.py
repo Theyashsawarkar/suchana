@@ -45,7 +45,6 @@ class Plugin(Base):
     placeholder = "Search notifications…"
     preview = True
     preview_width = 320
-    width = 760
     hints = [Hint("Enter", "action / copy"), Hint("Ctrl+Backspace", "dismiss"), Hint("Ctrl+N", "do not disturb")]
     empty_text = "No notifications"
 

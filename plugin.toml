@@ -1,8 +1,8 @@
 name = "suchana"
 title = "Notifications"
 description = "Notifications (mako): what's on screen with its actions, the history grouped by app, a full preview, do not disturb."
-version = "0.1.1"
-vyom = "0.2"
+version = "0.1.2"
+vyom = "0.2.5"
 icon = "󰂚"
 color = "red"
 requires = ["makoctl"]
