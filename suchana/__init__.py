@@ -46,7 +46,7 @@ class Plugin(Base):
     preview = True
     preview_width = 320
     width = 760
-    hints = [Hint("↵", "action / copy"), Hint("⌃⌫", "dismiss"), Hint("⌃N", "do not disturb")]
+    hints = [Hint("Enter", "action / copy"), Hint("Ctrl+Backspace", "dismiss"), Hint("Ctrl+N", "do not disturb")]
     empty_text = "No notifications"
 
     def __init__(self, vyom, conf):
