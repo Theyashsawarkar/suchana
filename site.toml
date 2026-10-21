@@ -1,0 +1,8 @@
+# The project website (docs/, GitHub Pages): built by scripts/build-site.py
+name = "suchana"
+sanskrit = "सूचना"
+meaning = "notice"
+tagline = "Notifications (mako): what's on screen with its actions, the history grouped by app, a full preview, do not disturb."
+color = "red"
+kind = "a Vyom tool"
+logo = "assets/logo.svg"
